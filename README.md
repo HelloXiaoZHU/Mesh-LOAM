@@ -1,7 +1,7 @@
 # Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping 
 
 <p align="center">  
-  <a href="https://arxiv.org/pdf/2312.15630.pdf"><h2>Arxiv</h2></a>  
+  <h2 align="center"><a href="https://arxiv.org/pdf/2312.15630.pdf">Arxiv</a></h2>
 </p>  
 
 <p align="center">
